@@ -16,6 +16,7 @@
     "date-fns": "^4.1.0",
     "firebase": "^11.3.1",
     "lodash": "^4.17.21",
+    "my-app-chat": "file:",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router-dom": "^7.2.0",
